@@ -1,9 +1,1 @@
-[submodule "Contracts/wallet-contracts/lib/forge-std"]
-	path = Contracts/wallet-contracts/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "Contracts/lib/reactive-lib"]
-	path = Contracts/lib/reactive-lib
-	url = https://github.com/Reactive-Network/reactive-lib
-[submodule "Contracts/lib/openzeppelin-contracts"]
-	path = Contracts/lib/openzeppelin-contracts
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+
