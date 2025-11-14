@@ -3,9 +3,6 @@ Intelligent DeFi automation platform for yield optimization and smart contract m
 
 ---
 
-## Live Link - https://snipark.app
-## Demo - https://www.loom.com/share/demo-link-here
-
 ## Table of Contents
 
 1. [Overview](#overview)
